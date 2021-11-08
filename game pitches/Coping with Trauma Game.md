@@ -52,7 +52,7 @@ as enemies are released --> ???
 
 
 ----
-
+```
 narratively easier levels are emotionally difficult
 |
 |
@@ -78,3 +78,4 @@ explore the fears that _are_ useful and ask them how you can love them
 | this new way of coping is ultimately more difficult
 but it's not a bandaid solution anymore.
 you accept yourself and all that you are
+```
