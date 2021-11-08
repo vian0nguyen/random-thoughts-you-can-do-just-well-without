@@ -38,6 +38,7 @@ you find boots (aquire VERB: speed)
 | ---------------- | ---------------- |
 | bigger, still on path | bigger - slower, follow |
 | (?) bop and 2 LV1s appear? | <- ? |
+| <3 <3 | <3 <3 |
 
 ## Section 4_final release
 
