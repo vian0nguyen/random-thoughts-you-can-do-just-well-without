@@ -34,6 +34,7 @@ maybe each scenario should have an assigned song so we stay on aesthetic
 * leo: dramatic, loves the private cam girl performance. in a difficult long distance relationship. the online interactions aremt enough
 * cancer, sentimental: long distance is hard they are in awe of love interest's echibitionism, swes them as radiant and holds on to all representstions of them
 
+----
 
 * capricorn: tenacious, refuses to move and its becoming detrimental holding them back
 
