@@ -11,7 +11,8 @@ There are three components to the game that at present don't interect well at al
 
 as it currently exists these textures and mechanics and themes don't seem to interact. instead they feel like a collection of interests someone might have. they are mashed together but not well integrated with each other. games can be abstract and not be so didactic to have to be obviously tied to the aesthetic they're referring to BUT they should at least speak a kind of cohesion ie. shake hands in the same way?
 
-## NOTES
+<details>
+  <summary> ## NOTES </summary>
 
 these elements dont work together. many dont even feel like theyre speaking to each other.
 some thoughts on this issue
@@ -56,6 +57,8 @@ i'll just say it - it's pretty shallow a connection. it's entwined with the char
 ### Enemy designs
 
 random thought: if everytime you defeat an enemy the game says "sayonara wild heart!" and in the song the reference of a "wild heart" refers to the love lost... all the bosses are you ex's? oR alteratively all the bosses are the versions of you that couldnt make love work.. what does that mean then
+  
+</details>
 
 ## PROBLEMS
 
