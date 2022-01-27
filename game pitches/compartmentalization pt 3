@@ -10,3 +10,27 @@ the effects stay for a long time but slooowly fade away until youre used to the 
 whenever you have an imtrusivr thought - design a monster that describes that feeling or fear
 fear of intimacy - big fluffy teddy bear-like with looong arms sufffocating and strong to suffocate you wjth
 etc
+
+this could be built in twine with images
+example gameplay:
+(passage:start) pick a box [image of a shelf of boxes with different colors]
+choices *red *blue *green
+(green) you open the green box and see a tiny green snail [image]
+*"hi" *poke it(:green poke)
+
+(green poke) it feels really slimy. it grows [image of it]
+
+
+ACTIONS:
+feel your feelings: play with them, solve what they need to be acknowledged
+put them away to address later
+
+MONSTERS:
+fear of intimacy
+grief (loss of all kinds, disappointment, death)
+jealousy
+social anxiety
+fear/panic
+imposter syndrome
+infatuation
+anger/belligerance/stubborn
