@@ -2,7 +2,7 @@ hold ur moms hand game
 repurpose a structure game by drawing on it and imagining or writing how the new community adapts the structure for their purposes
 your institutions will fail you game????
 can i publish and design one of my poems
-maybe publiah and design some of the mazes and labrythns i designed
+maybe publish and design some of the mazes and labrythns i designed
 a collaborative playlist game thats a call and response/postcard
 - p1 adds song to collab playlist
 - p2 listens to song and responds tk the mood/genre/energy in whatever way makes sense
