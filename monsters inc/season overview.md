@@ -6,6 +6,7 @@ Stacy, the front desk secretary to floor operations whose worked at Monsters Inc
 
 ## Episode Two: Home life
 Top scarer Monster comes home to their traditional home after a long, uncomfortable day of retraining, and restructuring. Only to be greeted by their over-eager scarer-in-training child, Clementine causing Monster to really face their feelings of inadequecy.
+RESOLUTION: A heart to heart between parents and eventually child acknowledging their doing their best and theyre not alone.
 
 ## ep ideas -
 * ppl that leave Monsters Inc for other energy companies that still rely on scarer energy
