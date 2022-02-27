@@ -5,9 +5,9 @@ Mike Wazowski's first order of business as self-appointed Senior Co-President of
 Stacy, the front desk secretary to floor operations whose worked at Monsters Inc for 5 years longer than Celia struggles to hold her feelings in about this sudden promotion.
 
 ## Episode Two: Home life
-Top scarer Monster comes home to their traditional home after a long, uncomfortable day of retraining, and restructuring. 
+Top scarer Monster comes home to their traditional home after a long, uncomfortable day of retraining, and restructuring. Only to be greeted by their over-eager scarer-in-training child, Clementine causing Monster to really face their feelings of inadequecy.
 
-ep ideas -
+## ep ideas -
 * ppl that leave Monsters Inc for other energy companies that still rely on scarer energy
   * PROBLEM: workplace tension with changing dynamics that forces monsters with big egos 
   * RESOLUTION:
