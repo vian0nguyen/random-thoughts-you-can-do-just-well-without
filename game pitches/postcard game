@@ -3,5 +3,26 @@ every letter that doesnt reach it's destination makes me more determined to clos
 twine game
 
 compents of the game:
-there are letters that the player can fill in? give them a prompt?
+there are letters that the player can fill in? give them a prompt? --NOT like madlibs
 there are pre written letters that the player
+there are letters the player can fill in (3 question radio button style)
+  --player sent letter
+     1) (*)Parent (*)Friend 
+     2) Maybe the description is filled out already
+     3) (1) I'm pissed you did that (2) I'm really sorry I messed up like that (3) I wish it didn't happen
+     
+  -- return letter (from system
+     1) your (answer *)
+     2) you know what? (depending on how you answered *) fuck you. (*) I did what I thought would be best (*) I miss you
+     3) I always loved you.
+
+why dont the letters send?
+what does it mean to send a letter to someone you KNOW won't get it?
+  > first you see the front of the letter along with "insufficient information: Return to Sender" error etc https://about.usps.com/publications/pub97/pub97_appi.htm write a letter for each code -- just a fun writing exercise 
+    the inside is prewritten you see it later
+  > 
+Hows it different from a letter you want someone to get but DOESNT and instead RTS back to you?
+  > player sends the letter first
+    thEN they get a return reply OR a "Return to Sender"
+
+
