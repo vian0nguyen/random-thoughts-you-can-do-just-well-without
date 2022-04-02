@@ -2,6 +2,18 @@ every letter that doesnt reach it's destination makes me more determined to clos
 
 twine game
 
+DEV DIARY: (4/2/22)
+brain a bit scattered but i started writing some letters which makes me think i need a more cohesive narrative structure. who is writing these letters and why are they writing so many all of a sudden? 
+im still editing some CSS code, i think i can't use height and width percentages cause adjusting the ViewPort makes it look wonky on the postcard BUT i got the post card background working i think i found a good size for it too :)
+DONT forget, we gotta change up the text input background color, it gets lost in the background!
+
+====
+
+Narrative Arch:
+
+
+=====
+
 compents of the game:
 there are letters that the player can fill in? give them a prompt? --NOT like madlibs
 there are pre written letters that the player
@@ -24,5 +36,7 @@ what does it mean to send a letter to someone you KNOW won't get it?
 Hows it different from a letter you want someone to get but DOESNT and instead RTS back to you?
   > player sends the letter first
     thEN they get a return reply OR a "Return to Sender"
+    
+======
 
 
