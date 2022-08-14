@@ -1,0 +1,42 @@
+every letter that doesnt reach it's destination makes me more determined to close the distance between us
+
+twine game
+
+DEV DIARY: (4/2/22)
+brain a bit scattered but i started writing some letters which makes me think i need a more cohesive narrative structure. who is writing these letters and why are they writing so many all of a sudden? 
+im still editing some CSS code, i think i can't use height and width percentages cause adjusting the ViewPort makes it look wonky on the postcard BUT i got the post card background working i think i found a good size for it too :)
+DONT forget, we gotta change up the text input background color, it gets lost in the background!
+
+====
+
+Narrative Arch:
+
+
+=====
+
+compents of the game:
+there are letters that the player can fill in? give them a prompt? --NOT like madlibs
+there are pre written letters that the player
+there are letters the player can fill in (3 question radio button style)
+  --player sent letter
+     1) (*)Parent (*)Friend 
+     2) Maybe the description is filled out already
+     3) (1) I'm pissed you did that (2) I'm really sorry I messed up like that (3) I wish it didn't happen
+     
+  -- return letter (from system
+     1) your (answer *)
+     2) you know what? (depending on how you answered *) fuck you. (*) I did what I thought would be best (*) I miss you
+     3) I always loved you.
+
+why dont the letters send?
+what does it mean to send a letter to someone you KNOW won't get it?
+  > first you see the front of the letter along with "insufficient information: Return to Sender" error etc https://about.usps.com/publications/pub97/pub97_appi.htm write a letter for each code -- just a fun writing exercise 
+    the inside is prewritten you see it later
+  > 
+Hows it different from a letter you want someone to get but DOESNT and instead RTS back to you?
+  > player sends the letter first
+    thEN they get a return reply OR a "Return to Sender"
+    
+======
+
+
