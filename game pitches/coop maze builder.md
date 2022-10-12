@@ -13,10 +13,8 @@ if you hit the edge of the page pick another direction and head the rest of the 
 10-12: something found
 
 ending the maze:
-any time you hit the edge of the page, 
-you can choose to exit the maze.
-answer the question depending on your 
-final roll that got you to your exit.
+any time you hit the edge of the page, you can choose to exit the maze.
+answer the question depending on your final roll that got you to your exit.
 
 2-5 : something was left behind
 6-9: a view you hope you’ll remember 
