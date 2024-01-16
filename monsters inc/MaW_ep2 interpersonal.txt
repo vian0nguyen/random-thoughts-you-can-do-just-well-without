@@ -232,7 +232,7 @@ unchanging face. The arguing trails off.
             Honey? A-Are you okay?
 
 Monster's face full breaks down at this point. His hands go 
-to their face like a shield to hid behind.
+to their face like a shield to hide behind.
                          
                          CLEMENTINE
             B-babby? I... I'll eat my broccoli 
@@ -242,8 +242,7 @@ Meely's hand reaches over to Monster's hand covering their
 face. Meely's hand gently traces Monster's eye bags.
                          
                          MEELY
-            Oh, honey... Your eyes. You're so 
-            tired.
+            Oh, honey... Your eyes...
 
 Monster pauses until they finally look up and over to 
 Meely.
