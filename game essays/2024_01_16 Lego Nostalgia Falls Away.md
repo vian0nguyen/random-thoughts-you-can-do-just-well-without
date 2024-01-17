@@ -1,4 +1,4 @@
-Revisiting Lego Star Wars
+# Revisiting Lego Star Wars
 
 What happens when the nostalgia of a classic IP falls away a couple hours in? And all you're left with is the gameplay, is it engaging? is it interesting or are you just driven by a morbid curiousity to see how things were built different and strayed from the original?
 
