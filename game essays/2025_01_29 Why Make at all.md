@@ -58,3 +58,11 @@ When people don't feel safe, I feel they'd be less likely to take risks, do diff
 ### What Am I Making
 So all this to say? What does making a "good" game look like for me? it's something that engages the medium: has the player Interact to answer a question it poses. A good game is safe and provides enough security that a player feels like they can experiment, take chances, and fail. Good games ask the player a question and also asks the player to shift their perspective to understand someone else. Maybe a good game asks the player if there can be a right and wrong when we are all just making the best choices we can given the circumstances (ie _reigns_ games). 
 So I want to make something that is challenging and can feel uncomfortable for a player, who deeply wants to become better in more senses beyond skills competency. 
+
+### Some things Im thinking about
+1. balancing and respectibility: the metaphor of the literal weight on your back as you try to seem hireable or attractive in some way while also expressing yourself and who you are.
+2. negativity, self hate: what does it accomplish? Why does it sometimes feel natural to do? knocking yourself down at your own expense so as not to seem too over-eager, self-absorbed?
+3. comparing, contrasting: in a world where everyone is individual why is it so easy to compare yourself to others (and usually determine you are worse)
+4. emotional labor as a weight and balance. when is it ok to take it on? What happens when you take on too much? who gets hurt when you take on everyones weight? And how does it feel to take everyones weight on?
+5. energy and depression: why must rest be productive? can laying in bed all day feel right ever? is the only choice Self Care or Rot? why is it hard to do things for yourself and less hard to do things for other people? Why is it easier to live + be for other people than for yourself? Are you selfish for asking for help, for needing someone?
+6. How do you change your mind about yourself? if you think you are Bad, Ugly, and Gross how do you change your own mind about yourself? Is the only way to think of yourself as you would a friend? 
