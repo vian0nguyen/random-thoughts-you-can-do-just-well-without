@@ -12,3 +12,6 @@
   * dexterity game? --> assemble a scene (with a location: background, subject: character, action: items can be held? foreground layer image
   * combine: lead in "im always in for" with verb/action "hunting buffalo" and place "at a wedding"
   * reverse clue, create the story by finding the motive (person, weapon, location)
+* urban games
+ * traversal game about diaspora in chinatown -- food adventure, look for certain cuisine?
+  * decipher where one would get a kind of food? is it called something else in another culture?
