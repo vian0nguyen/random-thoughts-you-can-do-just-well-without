@@ -15,3 +15,6 @@
 * urban games
  * traversal game about diaspora in chinatown -- food adventure, look for certain cuisine?
   * decipher where one would get a kind of food? is it called something else in another culture?
+
+## Follow this thread
+* an inlaid tile maze, press the buttons in the correct order (you must follow the line of the maze to get the order correct --> this could probably be made in bitsy
