@@ -4,3 +4,12 @@
 ** they talk to you and tell you what they like to eat
 
 what would you pack a race car for lunch
+
+system:
+items are tagged with: valid or no
+items must 1. fit in the lunch box (made of specific tiles in a shape like tetris)
+2. be all valid food items (you cant feed a cat a gas tank unless its a vroom vroom cat; you can only feed a neighcat ie horse hay)
+
+puzzle development: 
+built the solution backwards and add it
+rrelevant tiles that are the same shape or valid foods that are the wrong shape
